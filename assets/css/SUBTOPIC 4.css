@@ -1,0 +1,9 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header,footer{
+    background-color: aquamarine;
+    color: hotpink;
+    text-align: center;
+    padding: 10px;
+}
