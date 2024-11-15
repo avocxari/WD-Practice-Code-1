@@ -1,0 +1,35 @@
+body{
+
+    padding-left: 11em;
+    color: black;
+    background-color: rgb(111, 179, 227);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+    h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    ul.navbar{
+        position:absolute;
+        top: 2em;
+        left: 1em;
+        width:9em;
+        list-style-type: none;
+        padding:0;
+        margin:0;
+    }
+    ul.navbar li{
+    background-color:palevioletred;
+    color:black;
+    border-right: 1em solid aquamarine;
+    margin: 0.5em 0;
+    padding:0.3em;
+    }
+    ul.navbar a{
+    text-decoration: none;
+    }
+    a:link{
+    color:azure;
+    }
+    p.footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-small;
+    }
